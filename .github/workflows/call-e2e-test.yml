@@ -1,4 +1,4 @@
-name: Lexical e2e Tests
+name: Lexical e2e test runner
 
 on:
   workflow_call:
